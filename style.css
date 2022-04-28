@@ -14,7 +14,7 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    gap: 480px;
+    gap: 800px;
   }
 
 ul {
@@ -55,6 +55,10 @@ a {
 
 .signup {
     background-color: #3882F6;
+}
+
+button.signup {
+    color: white;
 }
 
 .midtop {
@@ -112,4 +116,41 @@ img {
     display: flex;
     justify-content: flex-end;
     align-items: center;
+}
+
+.call_action {
+    font-size: 24px;
+    color: white;
+   
+    
+}
+
+.section4 {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 180px;
+    padding: 60px;
+    
+    
+}
+
+.text_action {
+    color: white;
+}
+
+.call_text {
+    
+    
+}
+.section4.signup {
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
 }
