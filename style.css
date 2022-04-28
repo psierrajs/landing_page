@@ -60,3 +60,28 @@ a {
     display: flex;
     justify-content: space-evenly;
 }
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    
+    gap: 52px;
+}
+
+.info {
+    max-width: 200px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.info-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+    color: 1F2937;
+    font-wight: 800px;
+}
