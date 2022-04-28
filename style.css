@@ -77,6 +77,10 @@ img {
     height: 100px;
 }
 
+.section2 {
+    padding: 100px;
+}
+
 .info-header {
     display: flex;
     justify-content: center;
