@@ -1,0 +1,9 @@
+ul {
+    /* this removes the dots on the list items*/
+    list-style-type: none;
+}
+
+a {
+    /* removes underlining from links*/
+    text-decoration: none;
+}
