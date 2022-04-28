@@ -5,13 +5,15 @@
 
 .modal {
     background: #1F2937;
+    
 }
 
 .hero {
     padding: 8px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
+    gap: 480px;
   }
 
 ul {
@@ -40,5 +42,21 @@ a {
 .subtext {
     font-size: 18px;
     color: #E5E7EB;
+    max-width: 600px;
 
+}
+
+.placeholder {
+    background-color: grey;
+    padding: 50px;
+    margin: 30px;
+}
+
+.signup {
+    background-color: #3882F6;
+}
+
+.midtop {
+    display: flex;
+    justify-content: space-evenly;
 }
