@@ -1,4 +1,13 @@
-.header {
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.modal {
+    background: #1F2937;
+}
+
+.hero {
     padding: 8px;
     display: flex;
     align-items: center;
@@ -17,5 +26,19 @@ ul {
 a {
     /* removes underlining from links*/
     text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
+.main_title {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 700;
+
+}
+
+.subtext {
+    font-size: 18px;
+    color: #E5E7EB;
+
+}
