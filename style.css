@@ -1,3 +1,10 @@
+.header {
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
 ul {
     /* this removes the dots on the list items*/
     list-style-type: none;
@@ -7,3 +14,4 @@ a {
     /* removes underlining from links*/
     text-decoration: none;
 }
+
