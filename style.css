@@ -154,3 +154,15 @@ body {
     justify-content: center;
 
 }
+
+.footer {
+    height: 72px;
+    background: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    align-items: center;
+    justify-content: stretch;
+    max-width: 500px;
+    padding-left: 450px;
+    padding-right: 450px;
+}
