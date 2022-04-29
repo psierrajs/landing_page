@@ -170,3 +170,8 @@ body {
 body {
     font-family: 'Roboto', sans-serif;
 }
+
+img {
+    height: auto;
+    width: 200px;
+  }
